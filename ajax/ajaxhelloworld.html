@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div id="myDiv">
+
+</div>
+
+
+
+<script>
+    let xmlHttpRequest = new XMLHttpRequest();
+    xmlHttpRequest.open("GET", "textForAjaxGet.txt", true);
+    xmlHttpRequest.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+    xmlHttpRequest.send()
+    xmlHttpRequest.onreadystatechange = function () {
+        if (xmlHttpRequest.readyState == 4 && xmlHttpRequest.status == 200) {
+            document.getElementById("myDiv").innerHTML = xmlHttpRequest.responseText;
+        }
+    }
+</script>
+
+</body>
+</html>

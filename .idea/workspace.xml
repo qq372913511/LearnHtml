@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="45b3f31b-b927-4853-9c38-760889fc4431" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/dom/hellodom.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LearnHtml.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LearnHtml.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/canvasTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/html5css3/canvasTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css3multicoltest.html" beforeDir="false" afterPath="$PROJECT_DIR$/html5css3/css3multicoltest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css3test.html" beforeDir="false" afterPath="$PROJECT_DIR$/html5css3/css3test.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/helloworld.html" beforeDir="false" afterPath="$PROJECT_DIR$/html5css3/helloworld.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/localStorage.html" beforeDir="false" afterPath="$PROJECT_DIR$/html5css3/localStorage.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/svgTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/html5css3/svgTest.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML4 File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kujm6ADcAknk5RQo73e9GDwMTB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ajax" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Nextcloud_Linzeming\Program Project\Html\LearnHtml\html4" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Nextcloud_Linzeming\Program Project\Html\LearnHtml\ajax" />
+      <recent name="D:\Nextcloud_Linzeming\Program Project\Html\LearnHtml" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="frameTest.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/LearnHtml/html4/frameTest.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.frameTest.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="45b3f31b-b927-4853-9c38-760889fc4431" name="Default Changelist" comment="" />
+      <created>1606557528141</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606557528141</updated>
+      <workItem from="1606557529827" duration="5608000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="586" y="203" key="#Inspections" timestamp="1606570584455">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="586" y="203" key="#Inspections/0.0.1920.1050/-1057.-2160.3840.2130/1920.0.1920.1050@0.0.1920.1050" timestamp="1606570584455" />
+    <state x="681" y="325" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606570866562">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="681" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/-1057.-2160.3840.2130/1920.0.1920.1050@0.0.1920.1050" timestamp="1606570866562" />
+    <state x="461" y="169" key="SettingsEditor" timestamp="1606570633810">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050/-1057.-2160.3840.2130/1920.0.1920.1050@0.0.1920.1050" timestamp="1606570633810" />
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1606570717362">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/-1057.-2160.3840.2130/1920.0.1920.1050@0.0.1920.1050" timestamp="1606570717362" />
+  </component>
+</project>

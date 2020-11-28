@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>for learning of javascript</title>
+</head>
+<body>
+
+<h1 id="testid">Javascript</h1>
+
+<button onclick="onClicktest()">set date</button>
+<button onclick="showaalert()">show a alert</button>
+
+
+<script>
+
+    var jsontest = {type:"type1",content:"content 1"};
+
+    function onClicktest() {
+        document.getElementById("testid").innerHTML  = Date();
+    }
+
+    function showaalert() {
+        window.alert(jsontest.content.substr(0,4));
+    }
+</script>
+
+</body>
+</html>
