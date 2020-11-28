@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45b3f31b-b927-4853-9c38-760889fc4431" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/jQuery/hellojQuery.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dom/hellodom.html" beforeDir="false" afterPath="$PROJECT_DIR$/dom/hellodom.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606557528141</updated>
-      <workItem from="1606557529827" duration="6146000" />
+      <workItem from="1606557529827" duration="9270000" />
     </task>
     <servers />
   </component>
