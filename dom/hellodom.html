@@ -5,6 +5,28 @@
     <title>Title</title>
 </head>
 <body>
+<div id="container">
 
+
+</div>
+
+
+<script>
+    let container = document.getElementById(`container`);
+
+    // append text to div, we need to create a text node firstly.
+    let textnode = document.createTextNode("this is a text node");
+    container.appendChild(textnode);
+
+    let h1element = document.createElement("h1");
+    h1element.append(document.createTextNode("h1 content"));
+    container.appendChild(h1element);
+
+
+
+
+
+
+</script>
 </body>
 </html>

@@ -20,19 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="45b3f31b-b927-4853-9c38-760889fc4431" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/dom/hellodom.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/LearnHtml.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LearnHtml.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/canvasTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/html5css3/canvasTest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css3multicoltest.html" beforeDir="false" afterPath="$PROJECT_DIR$/html5css3/css3multicoltest.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css3test.html" beforeDir="false" afterPath="$PROJECT_DIR$/html5css3/css3test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/helloworld.html" beforeDir="false" afterPath="$PROJECT_DIR$/html5css3/helloworld.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/localStorage.html" beforeDir="false" afterPath="$PROJECT_DIR$/html5css3/localStorage.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/svgTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/html5css3/svgTest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dom/hellodom.html" beforeDir="false" afterPath="$PROJECT_DIR$/dom/hellodom.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1606557528141</updated>
-      <workItem from="1606557529827" duration="5608000" />
+      <workItem from="1606557529827" duration="6146000" />
     </task>
     <servers />
   </component>
