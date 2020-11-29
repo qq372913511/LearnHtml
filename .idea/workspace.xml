@@ -19,9 +19,20 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="45b3f31b-b927-4853-9c38-760889fc4431" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/jQuery/hellojQuery.html" afterDir="false" />
+    <list default="true" id="3675e523-d8d2-4593-8d9f-1aa1e1acc3ba" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/vue/helloVue.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vue/vue.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/LearnHtml.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/LearnHtml.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax/aXML.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ajax/aXML.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax/ajaxhelloworld.html" beforeDir="false" afterPath="$PROJECT_DIR$/ajax/ajaxhelloworld.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax/textForAjaxGet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/ajax/textForAjaxGet.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ajax/xmltest.html" beforeDir="false" afterPath="$PROJECT_DIR$/ajax/xmltest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dom/hellodom.html" beforeDir="false" afterPath="$PROJECT_DIR$/dom/hellodom.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jQuery/hellojQuery.html" beforeDir="false" afterPath="$PROJECT_DIR$/jQuery/hellojQuery.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +42,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML4 File" />
         <option value="HTML File" />
       </list>
@@ -39,54 +51,47 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="1kujm6ADcAknk5RQo73e9GDwMTB" />
+  <component name="ProjectId" id="1ktX4ukIAl2pXd4JMaNbDxNdxp4" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/ajax" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/javascript" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\Nextcloud_Linzeming\Program Project\Html\LearnHtml\html4" />
+      <recent name="$PROJECT_DIR$/html5css3" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Nextcloud_Linzeming\Program Project\Html\LearnHtml\ajax" />
-      <recent name="D:\Nextcloud_Linzeming\Program Project\Html\LearnHtml" />
+      <recent name="$PROJECT_DIR$/javascript" />
+      <recent name="$PROJECT_DIR$" />
     </key>
-  </component>
-  <component name="RunManager">
-    <configuration name="frameTest.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/LearnHtml/html4/frameTest.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.frameTest.html" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="45b3f31b-b927-4853-9c38-760889fc4431" name="Default Changelist" comment="" />
-      <created>1606557528141</created>
+      <changelist id="3675e523-d8d2-4593-8d9f-1aa1e1acc3ba" name="Default Changelist" comment="" />
+      <created>1606520674686</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1606557528141</updated>
-      <workItem from="1606557529827" duration="9270000" />
+      <updated>1606520674686</updated>
+      <workItem from="1606520676470" duration="8434000" />
+      <workItem from="1606602578673" duration="1523000" />
     </task>
     <servers />
   </component>
@@ -103,23 +108,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="586" y="203" key="#Inspections" timestamp="1606570584455">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606602847540">
+      <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state x="586" y="203" key="#Inspections/0.0.1920.1050/-1057.-2160.3840.2130/1920.0.1920.1050@0.0.1920.1050" timestamp="1606570584455" />
-    <state x="681" y="325" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606570866562">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="184" y="87" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.804@0.23.1440.804" timestamp="1606602847540" />
+    <state x="320" y="165" key="Vcs.Push.Dialog.v2" timestamp="1606521178881">
+      <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state x="681" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1050/-1057.-2160.3840.2130/1920.0.1920.1050@0.0.1920.1050" timestamp="1606570866562" />
-    <state x="461" y="169" key="SettingsEditor" timestamp="1606570633810">
-      <screen x="0" y="0" width="1920" height="1050" />
+    <state x="320" y="165" key="Vcs.Push.Dialog.v2/0.23.1440.804@0.23.1440.804" timestamp="1606521178881" />
+    <state x="518" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1606521220047">
+      <screen x="0" y="23" width="1440" height="804" />
     </state>
-    <state x="461" y="169" key="SettingsEditor/0.0.1920.1050/-1057.-2160.3840.2130/1920.0.1920.1050@0.0.1920.1050" timestamp="1606570633810" />
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup" timestamp="1606570717362">
-      <screen x="0" y="0" width="1920" height="1050" />
-    </state>
-    <state x="623" y="227" width="672" height="678" key="search.everywhere.popup/0.0.1920.1050/-1057.-2160.3840.2130/1920.0.1920.1050@0.0.1920.1050" timestamp="1606570717362" />
+    <state x="518" y="346" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1440.804@0.23.1440.804" timestamp="1606521220047" />
   </component>
 </project>

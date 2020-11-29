@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="vue.js" type="text/javascript" charset="UTF-8"></script>
+</head>
+<body>
+
+<div id="app" style="height: auto; background-color: #c3c3c3">
+    {{message}}<br>
+    {{name}}<br>
+    {{number + 1}}<br>
+    <p>{{splittest.split('').reverse().join('')}}</p>
+
+    <div @click="click1">
+        click1
+    </div>
+
+    <div>
+        <table style="background-color: #FFA500">
+            <tr v-for="obj in testobj">
+                <td v-for="value,key in obj">
+                    {{key}}:{{value}}
+                </td>
+            </tr>
+        </table>
+    </div>
+</div>
+
+
+<div id="components-demo">
+    <button-counter></button-counter>
+    <button-counter></button-counter>
+    <button-counter></button-counter>
+    <button-counter></button-counter>
+    <button-counter></button-counter>
+</div>
+<div id="blogdiv">
+    <blog-post>blog post</blog-post>
+</div>
+
+
+<script>
+    var data = {
+        message: "this is message",
+        name: "this is name property",
+        number: 1,
+        splittest: "splittest",
+        testobj: [{
+            name: "linzmeing",
+            age: 25,
+            salary: 200000000,
+        }, {
+            name: "linzmeing2",
+            age: 27,
+            salary: 300000000,
+        }, {
+            name: "linzmeing23",
+            age: 20,
+            salary: 400000000,
+        }]
+
+    };
+    var app = new Vue({
+        el: '#app',
+        data: data,
+        methods: {
+            click1: function () {
+                console.log("click1")
+            }
+        }
+
+
+    })
+    data.message = "123";
+    data.name = "new name";
+
+    app.$watch("message", function (newVal, oldVal) {
+        console.log(newVal, oldVal);
+    })
+
+</script>
+<script>
+    // 定义一个名为 button-counter 的新组件
+    Vue.component('button-counter', {
+        data: function () {
+            return {
+                count: 0
+            }
+        },
+        template: '<button v-on:click="count++">You clicked me {{ count }} times.</button>'
+    })
+    new Vue({el: '#components-demo'})
+
+</script>
+<script>
+    Vue.component('blog-post', {
+        props: ['title'],
+        template: '<h1>title:{{title}}</h1>'
+    })
+    new Vue({
+        el: "#blogdiv",
+        data: {
+            title: "this is a title",
+        }
+    })
+</script>
+</body>
+</html>
